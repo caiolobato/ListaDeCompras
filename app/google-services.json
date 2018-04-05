@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812492955022",
+    "firebase_url": "https://listadecomprassenac.firebaseio.com",
+    "project_id": "listadecomprassenac",
+    "storage_bucket": "listadecomprassenac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812492955022:android:2c5f723a1c5666b4",
+        "android_client_info": {
+          "package_name": "pa.senac.br.listadecompras"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812492955022-goc7ko7md13lk2irsvn7akcdjap8iuhp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pa.senac.br.listadecompras",
+            "certificate_hash": "4b5ac0208ac64f0c75e3b22457a2380a6e38943c"
+          }
+        },
+        {
+          "client_id": "812492955022-kihrv6iv23pvgop23tp08iu62m7eg45m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg1r5vc8MmRdjB8P5EnCf0oFGOJmel7Gs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812492955022-kihrv6iv23pvgop23tp08iu62m7eg45m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
